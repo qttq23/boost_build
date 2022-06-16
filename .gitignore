@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!readme.md
+
+# include a folder
+!boost_1_79_0_win32_x64_release
+!boost_1_79_0_win32_x64_release/**
+
+
